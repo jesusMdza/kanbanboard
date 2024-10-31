@@ -1,6 +1,6 @@
 ## Kanban Board with Next.js
 
-1. run the development server:
+1. Run the development server:
    `npm run dev`
 
 2. Open [http://localhost:3000](http://localhost:3000) within your browser.
