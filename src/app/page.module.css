@@ -3,5 +3,10 @@
 
 .page {
   width: inherit;
-  height: inherit
+  height: inherit;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
 }
