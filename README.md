@@ -1,9 +1,9 @@
 ## Kanban Board with Next.js
 
-First, run the development server:
-`npm run dev`
+1. run the development server:
+   `npm run dev`
 
-Open [http://localhost:3000](http://localhost:3000) within your browser.
+2. Open [http://localhost:3000](http://localhost:3000) within your browser.
 
 ## Deploy on Vercel
 
