@@ -8,7 +8,7 @@ export default function Home() {
         <div className={styles.logoContainer}>
           <h1>Kanban</h1>
         </div>
-        {/* <KanbanBoard /> */}
+        <KanbanBoard />
       </main>
     </div>
   )
