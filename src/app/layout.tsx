@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Provider } from '@/components/ui/provider'
+import { Provider } from '@/chakra/components/ui/provider'
 import localFont from 'next/font/local'
 import './globals.css'
 

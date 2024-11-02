@@ -1,12 +1,2 @@
 .main {
 }
-
-.page {
-  width: inherit;
-  height: inherit;
-}
-
-.logoContainer {
-  display: flex;
-  justify-content: center;
-}
